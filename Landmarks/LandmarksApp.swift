@@ -16,6 +16,7 @@ struct LandmarksApp: App {
         WindowGroup {
             ContentView()
                 .environment(modelData)
+            
         }
     }
 }
